@@ -16,5 +16,5 @@ npm run dev
 
 #### Checkout demo at: [https://tirthamouli.github.io/sudoku/](https://santhoshdwarampudi.github.io/sudoku-solver/)
 
-#### Servers on http://localhost:8080 (Check webpack.config.js)
+#### Servers on http://localhost:8080/ (Check webpack.config.js)
 #### Optimized solver without visualizer is in 'optimized' branch
